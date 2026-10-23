@@ -4,7 +4,7 @@ Project Overview
 
 This project simulates the design, implementation, security, and administration of the IT infrastructure of Meridian IT Solutions, a fictional company.
 
-The lab combines Cisco Packet Tracer network simulations with a virtualized Windows Server 2022 environment and Windows 11 Pro clients.
+The lab combines Cisco Packet Tracer network simulations with a virtualized Windows Server 2019 environment and Windows 11 Pro clients.
 
  Objectives
 
