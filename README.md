@@ -27,7 +27,6 @@ Lab Environment
 
 Repository Structure
 
-- `docs/` — Business requirements, architecture, addressing plans, and test plans.
 - `packet-tracer/` — Network simulation files and device configurations.
 - `windows-server/` — Server deployment notes and administration documentation.
 - `powershell/` — Administrative automation scripts.
