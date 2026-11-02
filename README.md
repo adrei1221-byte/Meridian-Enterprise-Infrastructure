@@ -23,6 +23,7 @@ Lab Environment
 - Windows Server 2022
 - Windows 11 Pro
 - PowerShell
+- pfSense
 - Git and GitHub
 
 Repository Structure
